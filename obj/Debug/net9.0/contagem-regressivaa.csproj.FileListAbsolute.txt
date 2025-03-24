@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Contagem regressiva\contagem-regressivaa\bin\Debug\net9.0\contagem-regressivaa.exe
+C:\Users\user\Documents\Contagem regressiva\contagem-regressivaa\bin\Debug\net9.0\contagem-regressivaa.deps.json
+C:\Users\user\Documents\Contagem regressiva\contagem-regressivaa\bin\Debug\net9.0\contagem-regressivaa.runtimeconfig.json
+C:\Users\user\Documents\Contagem regressiva\contagem-regressivaa\bin\Debug\net9.0\contagem-regressivaa.dll
+C:\Users\user\Documents\Contagem regressiva\contagem-regressivaa\bin\Debug\net9.0\contagem-regressivaa.pdb
+C:\Users\user\Documents\Contagem regressiva\contagem-regressivaa\obj\Debug\net9.0\contagem-regressivaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Contagem regressiva\contagem-regressivaa\obj\Debug\net9.0\contagem-regressivaa.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Contagem regressiva\contagem-regressivaa\obj\Debug\net9.0\contagem-regressivaa.AssemblyInfo.cs
+C:\Users\user\Documents\Contagem regressiva\contagem-regressivaa\obj\Debug\net9.0\contagem-regressivaa.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Contagem regressiva\contagem-regressivaa\obj\Debug\net9.0\contagem-regressivaa.sourcelink.json
+C:\Users\user\Documents\Contagem regressiva\contagem-regressivaa\obj\Debug\net9.0\contagem-regressivaa.dll
+C:\Users\user\Documents\Contagem regressiva\contagem-regressivaa\obj\Debug\net9.0\refint\contagem-regressivaa.dll
+C:\Users\user\Documents\Contagem regressiva\contagem-regressivaa\obj\Debug\net9.0\contagem-regressivaa.pdb
+C:\Users\user\Documents\Contagem regressiva\contagem-regressivaa\obj\Debug\net9.0\contagem-regressivaa.genruntimeconfig.cache
+C:\Users\user\Documents\Contagem regressiva\contagem-regressivaa\obj\Debug\net9.0\ref\contagem-regressivaa.dll
